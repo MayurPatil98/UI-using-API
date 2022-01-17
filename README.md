@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# News API UI OutPut
+![API_UI](https://user-images.githubusercontent.com/92413748/149716187-b0fb7c2e-a096-42aa-959d-d27b8c539430.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
